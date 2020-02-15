@@ -1,0 +1,52 @@
+*
+{
+	background: #98FB98;
+}
+h1
+{
+	color: #9400D3;
+	text-align: center;
+}
+h3
+{
+	font-family: Tahoma;
+	font-size: 120%;
+	font-weight: italic;
+	font-style: oblique;
+	color: #da70d6;
+}
+p
+{
+	text-align: left;
+	font-family: Times New Roman;
+	font-size: 17px;
+	font-weight: normal;
+	font-style: inherit;
+	padding-left: 40px;
+}
+h2
+{
+	font-family: Arial Black;
+	font-weight: normal;
+	margin-top: 20px;
+	margin-left: 150px;
+	font-size: 100%;
+}
+img
+{
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+}
+.movies ol{
+	width: 20%;
+	position:relative;
+}
+.movies a{
+	position:absolute;
+	right:0;
+}
+#special{
+	text-decoration: line-through;
+}
